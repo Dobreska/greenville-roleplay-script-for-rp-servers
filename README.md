@@ -2,3 +2,5 @@
 ## auto ban bypass 
 ## tire slick modification and autofarm doesnt work
 discord.gg/6eBycE6xXA
+
+loadstring: loadstring(game:HttpGet("https://github.com/Dobreska/greenville-roleplay-script-for-rp-servers/blob/main/script.txt"))()
